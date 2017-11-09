@@ -1,0 +1,121 @@
+body{
+  background-color: grey;
+}
+.card-game-type{
+  min-height: 683px !important;
+}
+.card-game-img{
+  object-fit: cover;
+  height: 20vw;
+}
+.card-img-detail{
+  display: block;
+  margin: auto;
+  object-fit: cover;
+  width: 65vw;
+}
+.foot{
+  border-radius: 100;
+}
+.topfont{
+  font-family: 'Lobster', cursive;
+  color: white;
+}
+/*.toptext{
+  left: 0;
+  top: 0;
+  vertical-align: middle;
+  height: 500px;
+  width: 100%;
+  text-align: center;
+  background-image: url("https://ak5.picdn.net/shutterstock/videos/2324615/thumb/8.jpg");
+  background-position: center;
+
+}*/
+
+.info1{
+  font-family: 'Archivo Black', sans-serif;
+
+}
+
+
+.info{
+  display: flex;
+  flex-wrap: nowrap;
+
+
+}
+.cardinfo{
+ padding: 0 !important
+
+}
+
+.toptext {
+  text-align: center;
+  width: 100%;
+  font-size: 100px;
+}
+.buttontop {
+  /*height: 100px !important;*/
+  text-align: center;
+
+}
+.button {
+  border-radius: 10px
+
+}
+
+.header-content-inner {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 700px;
+  width: 100%;
+  /*background-image: url(/static/images/45b8f77ff445300d1893e930dc3c0c4e.jpg);*/
+  background-image:  url(https://steamuserimages-a.akamaihd.net/ugc/106232282985949713/1291DDC70BB4A18536887DCAC60BC489D56FFADF/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside|637:358&composite-to%3D%2A%2C%2A%7C637%3A358&background-color=black);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.random-field{
+  background-color: #343a40;
+  height: 350px;
+  overflow: auto;
+}
+.randomplace{
+
+}
+.random-field-font{
+  color: white
+
+}
+
+.inputrandom{
+  width: 350px;
+  height: 50px;
+
+
+
+}
+.randombuttonfield{
+  height: 40px;
+  background-color: 		#696969;
+
+
+}
+.b{
+  	background-color: #A9A9A9;
+
+}
+.a{
+  border-width: 0px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+.c{
+  font-family: 'Pacifico', cursive;
+  font-size: 50px
+}
+
+/*.login_input{
+  max-width: 800px;
+}*/
